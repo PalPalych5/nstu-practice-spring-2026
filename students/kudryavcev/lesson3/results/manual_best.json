@@ -1,0 +1,21 @@
+{
+  "arch_name": "2L_64r_32r",
+  "config": [
+    [
+      64,
+      "relu"
+    ],
+    [
+      32,
+      "relu"
+    ]
+  ],
+  "lr": 0.1,
+  "batch_size": 32,
+  "epochs": 80,
+  "validation_mean_accuracy": 0.9819444444444445,
+  "validation_std_accuracy": 0.004166666666666707,
+  "model_path": "students/kudryavcev/lesson3/models/manual/20260406_154343_manual_2L_64r_32r_lr0.1_bs32_ep80_acc0.9694.npz",
+  "test_accuracy": 0.9694444444444444,
+  "loaded_test_accuracy": 0.9694444444444444
+}
