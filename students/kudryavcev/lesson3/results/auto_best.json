@@ -1,19 +1,19 @@
 {
-  "trial_number": 18,
-  "arch_name": "1L_256r",
+  "trial_number": 134,
+  "arch_name": "1L_512r",
   "config": [
     [
-      256,
+      512,
       "relu"
     ]
   ],
-  "lr": 0.07020005873943293,
+  "lr": 0.3664540932651393,
   "batch_size": 16,
-  "epochs": 60,
-  "patience": 20,
-  "best_validation_accuracy": 0.9833333333333333,
-  "model_path": "students/kudryavcev/lesson3/models/auto/20260407_033724_auto_1L_256r_lr0.0702001_bs16_ep60_acc0.9806.npz",
+  "epochs": 1350,
+  "patience": 14,
+  "best_validation_accuracy": 0.9916666666666667,
+  "model_path": "students/kudryavcev/lesson3/models/auto/20260407_095656_auto_1L_512r_lr0.366454_bs16_ep1350_acc0.9861.npz",
   "study_db_path": "students/kudryavcev/lesson3/results/lesson3_auto_search_v1.db",
-  "test_accuracy": 0.9805555555555555,
-  "loaded_test_accuracy": 0.9805555555555555
+  "test_accuracy": 0.9861111111111112,
+  "loaded_test_accuracy": 0.9861111111111112
 }
